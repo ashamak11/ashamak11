@@ -34,7 +34,7 @@ further hone my craft in an ever-evolving digital landscape.
 A hackathon project focused on reducing food waste by connecting local farmers with food pantries.  
 Built with **HTML/CSS, JavaScript, Flask**, and **OpenAI API** for smart search features.
 
-![Sustain the Way Screenshot](images/sustain-the-way-demo.png)
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YYrFuMtBCTU&t=3s)
 
 🔗 [Project Repository](https://github.com/HariniSolai/SustainTheWay)
 
