@@ -14,10 +14,10 @@ Tools: Git, VSCode, Bootstrap, and GitHub
 
 Coursework: Programming Practicum, Data Structures and Algorithms, and Machine Organization
 
-Contact Info:
-Email: ashamakwana109@gmail.com
-LinkedIn: https://www.linkedin.com/in/a-mak/
-Resume: https://docs.google.com/document/d/1HwqLgztaNpZAAPexx7JnOPcay9n2PMqK/edit?usp=sharing&ouid=109357612233896486674&rtpof=true&sd=true
+**Contact Info:**  
+📧 [ashamakwana109@gmail.com](mailto:ashamakwana109@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/a-mak/)  
+📄 [Resume](https://docs.google.com/document/d/1HwqLgztaNpZAAPexx7JnOPcay9n2PMqK/edit?usp=sharing)
 <!---
 ashamak11/ashamak11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
